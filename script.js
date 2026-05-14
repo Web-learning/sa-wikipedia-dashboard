@@ -8,7 +8,7 @@ const languageData = [
   { name:"siSwathi", code:"ss", speakers:"1.3M", status:"Emerging", color:"#f97316", url:"https://ts.wikipedia.org" },
   { name:"Tshivenda", code:"ve", speakers:"1.2M", status:"Emerging", color:"#f97316", url:"https://ve.wikipedia.org"},
   { name:"Sesotho sa Leboa", code:"nso", speakers:"4.6M", status:"Emerging", color:"#f97316", url:"https://nso.wikipedia.org"},
-  { name:"isiNdebele", code:"nr", speakers:"1M", status:"Emerging", color:"#f97316", url:"https://ve.wikipedia.org"}
+  { name:"isiNdebele", code:"nr", speakers:"1M", status:"Emerging", color:"#f97316", url:"https://nr.wikipedia.org"}
 ];
 
 const container = document.getElementById("languages");
