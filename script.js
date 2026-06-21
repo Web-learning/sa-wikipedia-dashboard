@@ -1,14 +1,14 @@
 const languageData = [
-  { name:"isiZulu", code:"zu", speakers:"11.5M", status:"Active", color:"#22c55e", url:"https://zu.wikipedia.org" },
-  { name:"isiXhosa", code:"xh", speakers:"8.1M", status:"Growing", color:"#f59e0b", url:"https://xh.wikipedia.org" },
-  { name:"Afrikaans", code:"af", speakers:"6.8M", status:"Popular", color:"#38bdf8", url:"https://af.wikipedia.org" },
-  { name:"Sesotho", code:"st", speakers:"3.8M", status:"Active", color:"#ef4444", url:"https://st.wikipedia.org" },
-  { name:"Setswana", code:"tn", speakers:"4M", status:"Growing", color:"#14b8a6", url:"https://tn.wikipedia.org" },
+  { name:"isiZulu", code:"zu", speakers:"11.5M", status:"Active", color:"#80b1d3", url:"https://zu.wikipedia.org" },
+  { name:"isiXhosa", code:"xh", speakers:"8.1M", status:"Growing", color:"#fb8072", url:"https://xh.wikipedia.org" },
+  { name:"Afrikaans", code:"af", speakers:"6.8M", status:"Popular", color:"#8dd3c7", url:"https://af.wikipedia.org" },
+  { name:"Sesotho", code:"st", speakers:"3.8M", status:"Active", color:"#b3de69", url:"https://st.wikipedia.org" },
+  { name:"Setswana", code:"tn", speakers:"4M", status:"Growing", color:"#fccde5", url:"https://tn.wikipedia.org" },
   { name:"Xitsonga", code:"ts", speakers:"2.2M", status:"Emerging", color:"#f97316", url:"https://ts.wikipedia.org" },
-  { name:"siSwathi", code:"ss", speakers:"1.3M", status:"Emerging", color:"#f97316", url:"https://ts.wikipedia.org" },
-  { name:"Tshivenda", code:"ve", speakers:"1.2M", status:"Emerging", color:"#f97316", url:"https://ve.wikipedia.org"},
-  { name:"Sesotho sa Leboa", code:"nso", speakers:"4.6M", status:"Emerging", color:"#f97316", url:"https://nso.wikipedia.org"},
-  { name:"isiNdebele", code:"nr", speakers:"1M", status:"Emerging", color:"#f97316", url:"https://nr.wikipedia.org"}
+  { name:"siSwathi", code:"ss", speakers:"1.3M", status:"Emerging", color:"#bc80bd", url:"https://ss.wikipedia.org" },
+  { name:"Tshivenda", code:"ve", speakers:"1.2M", status:"Emerging", color:"#ccebc5", url:"https://ve.wikipedia.org"},
+  { name:"Sesotho sa Leboa", code:"nso", speakers:"4.6M", status:"Emerging", color:"#fdb462", url:"https://nso.wikipedia.org"},
+  { name:"isiNdebele", code:"nr", speakers:"1M", status:"Emerging", color:"#bebada", url:"https://nr.wikipedia.org"}
 ];
 
 const container = document.getElementById("languages");
